@@ -36,7 +36,7 @@ public class TestDemo {
 			System.out.println("FAILED - the login was not successful");
 		}
 
-		// 7) Close browser
+		// 7) Close the opened browser
 		driver.quit();
 
 	}
